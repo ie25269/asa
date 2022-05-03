@@ -102,7 +102,7 @@ for ($x=0;$x<$arrUnusedLength;$x++) {
 echo "----------------------------------------\n";
 echo "Objects found in config: \t $arrObjectsLength\n";
 echo "Objects found unused: \t\t $arrUnusedLength\n";
-
+echo "----------------------------------------\n";
 
 
 //DEBUG: Print raw results  
